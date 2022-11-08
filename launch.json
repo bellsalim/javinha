@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch exemplo4",
+            "request": "launch",
+            "mainClass": "exemplo4",
+            "projectName": "logica de programção_157c5d20"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio1",
+            "request": "launch",
+            "mainClass": "exercicio1",
+            "projectName": "logica de programção_157c5d20"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemplo2",
+            "request": "launch",
+            "mainClass": "exemplo2",
+            "projectName": "logica de programção_157c5d20"
+        },
+        {
+            "type": "java",
+            "name": "Launch exemplo3",
+            "request": "launch",
+            "mainClass": "exemplo3",
+            "projectName": "logica de programção_157c5d20"
+        }
+    ]
+}
